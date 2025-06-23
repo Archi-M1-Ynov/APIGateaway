@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "axios": "^1.10.0",
+    "dotenv": "^16.5.0",
+    "graphql": "^16.11.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.3"
+  },
+  "scripts": {
+    "start": "tsx src/index.js",
+    "dev": "tsx watch src/index.js"
+  },
+  "type": "module"
+
+}
